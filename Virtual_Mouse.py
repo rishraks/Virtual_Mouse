@@ -27,7 +27,7 @@ norm_min = 0
 norm_max = 100
 
 
-smooth_value = 10
+smooth_value = 6
 
 clock_x, clock_y = 0,0
 ploc_x,ploc_y = 0,0 
